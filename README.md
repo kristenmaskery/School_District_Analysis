@@ -20,6 +20,7 @@ Average reading score: 81.9%
 % Passing math: 74.8% (0.2% decrease)
 % Passing reading: 85.7% (0.3% decrease)
 % Overall Passing: 64.9 (0.1% decrease)
+
 ![district_summary:](.Resources/district_summary.png)
 
 
