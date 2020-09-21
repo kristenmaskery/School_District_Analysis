@@ -13,7 +13,7 @@ The analysis we will provide the chief data scientist Maria, will be constructed
 The School District Summary provide the school board with insight into the overall performance levels and budget for the fifteen schools we are analyzing. As can be observed in the image attached below, we are analyzing at several key factors; total school budget, per student budget, average math and reading scores, the percentage of students passing math and/or reading, as well as the overall percentage of students passing. 
 Collectively these schools are receiving a total budget of $24,649,428.00 alongside a total number of 39,170 students respectively. Looking towards the academic performance markers it can be determined that the average math score is 79.0% and the average reading score is 81.9%. Given these markers 75% of students in the district are passing math, 86% of students are passing English, and 65% of students are passing overall. 
 
-![district_summary_without:](./Resources/district_summary_without.png)
+![district_summary_without:](./Resources/district_summary.png)
 
 
 ### School District Analysis without Thomas High School Grade 9 Scores 
@@ -44,6 +44,8 @@ We can make the general assumption that the overall results have increased sigfi
 
 By analysing the data provided above it can be determined that the removal of the grade nine grades did significantly alter the data. The average math and reading scores increased after the grades were removed and the same followed for the percentage of students passing these subjects and overall. Therefore, it could be concluded that the grade 9 data did present as a significant outlier to the analysis in this regard. 
 
+
+![summary:](./summary.png)
 
 ## Analysis
 Math and reading scores by grade: The grades 10-12 average math score did increase approximately 4%, the average reading grade increase approximately 2%, the % passing math increased approximately 19%, and the passing reading score increased 12%. Therefore, the overall passing also increased 25.7%
