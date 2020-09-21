@@ -13,11 +13,13 @@ The analysis we will provide the chief data scientist Maria, will be constructed
 The School District Summary provide the school board with insight into the overall performance levels and budget for the fifteen schools we are analyzing. As can be observed in the image attached below, we are analyzing at several key factors; total school budget, per student budget, average math and reading scores, the percentage of students passing math and/or reading, as well as the overall percentage of students passing. 
 Collectively these schools are receiving a total budget of $24,649,428.00 alongside a total number of 39,170 students respectively. Looking towards the academic performance markers it can be determined that the average math score is 79.0% and the average reading score is 81.9%. Given these markers 75% of students in the district are passing math, 86% of students are passing English, and 65% of students are passing overall. 
 
-![district_summary_without:](./Resources/district_summary.png)
+![district_summary:](./Resources/district_summary.png)
 
 
 ### School District Analysis without Thomas High School Grade 9 Scores 
 We can make the general assumption that the overall results have increased sigficatly due to the exclusion of the grade nine math and reading grades however, in order to provide insight into the school’s performance without these grades and its effects towards the general statistics it is important to look at a school summary, of which offers more specific insight. 
+![district_summary_without:](./Resources/summary_without.png)
+
 
 ### School Summary Analysis with Thomas High School Grade 9 Scores 
 
