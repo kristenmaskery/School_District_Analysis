@@ -25,6 +25,7 @@ Average reading score: 81.9%
 % Overall Passing: 64.9 (0.1% decrease)
 We can make the general assumption that the overall results have not increased sigficatly due to the exclusion of the grade nine math and reading grades however, in order to provide insight into the school’s performance without these grades and its effects towards the general statistics it is important to look at a school summary, of which offers more specific insight. 
 
+![district_summary_without:](./Resources/district_summary_without.png)
 
 ### School Summary Analysis with Thomas High School Grade 9 Scores 
 
