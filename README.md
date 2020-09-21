@@ -17,7 +17,13 @@ Collectively these schools are receiving a total budget of $24,649,428.00 alongs
 
 
 ### School District Analysis without Thomas High School Grade 9 Scores 
-We can make the general assumption that the overall results have increased sigficatly due to the exclusion of the grade nine math and reading grades however, in order to provide insight into the school’s performance without these grades and its effects towards the general statistics it is important to look at a school summary, of which offers more specific insight. 
+Upon removing Thomas High School’s grade nine reading and math results from the analysis we observe a slight difference:
+Average math score: 78.9% (0.1% decrease) 
+Average reading score: 81.9%
+% Passing math: 74.8% (0.2% decrease)
+% Passing reading: 85.7% (0.3% decrease)
+% Overall Passing: 64.9 (0.1% decrease)
+We can make the general assumption that the overall results have not increased sigficatly due to the exclusion of the grade nine math and reading grades however, in order to provide insight into the school’s performance without these grades and its effects towards the general statistics it is important to look at a school summary, of which offers more specific insight. 
 
 
 ### School Summary Analysis with Thomas High School Grade 9 Scores 
@@ -57,4 +63,4 @@ Scores by school size: This high schools is classified as a medium sized school 
 Scores by school type: Thomas High School is a Charter school, relative to other charter schools this high school performs significantly better than district schools, the data without the grade nine scores has not significantly affected this. 
 
 ## Summary
-Therefore, it can be determined by the significant increase in all respects of the student's performances without the grade 9 grades that the grades received by this class did present as an outlier in performance, which could lead to the belief that there was some form of academic dishonesty practiced. Firstly, the most significant indicator of this is the 25.7% increase in the percentage overall passing. Secondly, the average reading and math scores only increased a small increment within 5% of the percent passing with the grade nine grades included however, this is followed by another significant increase in the percentage of students passing which appears unsettling. Lastly, if the average math and reading scores remained it appears odd that the following percentage of students changed so drastically, meaning that a large number of grade nine students were not successful in passing these subjects.
+Therefore, it can be determined by the significant increase in all respects of the student's performances without the grade 9 grades that the grades received by this class did present as an outlier in the school summary analysis but remainned relatively unchanged in the district summary, which could lead to the belief that there was some form of academic dishonesty practiced. Firstly, the most significant indicator of this is the 25.7% increase in the percentage overall passing. Secondly, the average reading and math scores only increased a small increment within 5% of the percent passing with the grade nine grades included however, this is followed by another significant increase in the percentage of students passing which appears unsettling. Lastly, if the average math and reading scores remained it appears odd that the following percentage of students changed so drastically, meaning that a large number of grade nine students were not successful in passing these subjects.
