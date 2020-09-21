@@ -18,7 +18,6 @@ Collectively these schools are receiving a total budget of $24,649,428.00 alongs
 
 ### School District Analysis without Thomas High School Grade 9 Scores 
 We can make the general assumption that the overall results have increased sigficatly due to the exclusion of the grade nine math and reading grades however, in order to provide insight into the school’s performance without these grades and its effects towards the general statistics it is important to look at a school summary, of which offers more specific insight. 
-![district_summary_without:](./Resources/summary_without.png)
 
 
 ### School Summary Analysis with Thomas High School Grade 9 Scores 
@@ -46,8 +45,7 @@ We can make the general assumption that the overall results have increased sigfi
 
 By analysing the data provided above it can be determined that the removal of the grade nine grades did significantly alter the data. The average math and reading scores increased after the grades were removed and the same followed for the percentage of students passing these subjects and overall. Therefore, it could be concluded that the grade 9 data did present as a significant outlier to the analysis in this regard. 
 
-
-![summary:](./summary.png)
+![summary:](./Resources/summary.png)
 
 ## Analysis
 Math and reading scores by grade: The grades 10-12 average math score did increase approximately 4%, the average reading grade increase approximately 2%, the % passing math increased approximately 19%, and the passing reading score increased 12%. Therefore, the overall passing also increased 25.7%
