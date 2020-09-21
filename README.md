@@ -28,16 +28,24 @@ Therefore, we can make the general assumption that the overall results have only
 ### School Summary Analysis with Thomas High School Grade 9 Scores 
 
 Average Math Score: 83.418349
+
 Average Reading Score: 83.848930
+
 % Passing Math: 93.272171
+
 % Passing Reading: 97.308869
+
 % Overall Passing: 90.948012
 
 ### School Summary Analysis without Thomas High School Grade 9 Scores 
 Average Math Score: 83.350937
+
 Average Reading Score: 83.896082
+
 % Passing Math: 93.185690
+
 % Passing Reading: 97.018739
+
 % Overall Passing: 90.630324
 
 By analysing the data provided above it can be determined that the removal of the grade nine grades did not significantly alter the data. The average math and reading scores stayed relatively the same before and after the grades were removed and the same followed for the percentage of students passing these subjects and overall. Therefore, it could be concluded that the grade 9 data did not present as a significant outlier to the analysis in this regard. 
