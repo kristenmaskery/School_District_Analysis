@@ -17,29 +17,19 @@ Collectively these schools are receiving a total budget of $24,649,428.00 alongs
 
 
 ### School District Analysis without Thomas High School Grade 9 Scores 
-However, upon removing Thomas High School’s grade nine reading and math results from the analysis we observe a slight difference:
-Average math score: 78.9% (0.1% decrease) 
-Average reading score: 81.9%
-% Passing math: 74.8% (0.2% decrease)
-% Passing reading: 85.7% (0.3% decrease)
-% Overall Passing: 64.9 (0.1% decrease)
-Therefore, we can make the general assumption that the overall results have only slightly decreased due to the exclusion of the grade nine math and reading grades however, in order to provide insight into the school’s performance without these grades and its effects towards the general statistics it is important to look at a school summary, of which offers more specific insight. 
-
-![district_summary:](./Resources/district_summary.png)
-
-
+We can make the general assumption that the overall results have increased sigficatly due to the exclusion of the grade nine math and reading grades however, in order to provide insight into the school’s performance without these grades and its effects towards the general statistics it is important to look at a school summary, of which offers more specific insight. 
 
 ### School Summary Analysis with Thomas High School Grade 9 Scores 
 
-**Average Math Score:** 83.418349
+**Average Math Score:** 78.9
 
-**Average Reading Score:** 83.848930
+**Average Reading Score:** 81.9
 
-**% Passing Math:** 93.272171
+**% Passing Math:** 74.8
 
-**% Passing Reading:** 97.308869
+**% Passing Reading:** 85.7
 
-**% Overall Passing:** 90.948012
+**% Overall Passing:** 64.9
 
 ### School Summary Analysis without Thomas High School Grade 9 Scores 
 **Average Math Score:** 83.350937
@@ -52,14 +42,17 @@ Therefore, we can make the general assumption that the overall results have only
 
 **% Overall Passing:** 90.630324
 
-By analysing the data provided above it can be determined that the removal of the grade nine grades did not significantly alter the data. The average math and reading scores stayed relatively the same before and after the grades were removed and the same followed for the percentage of students passing these subjects and overall. Therefore, it could be concluded that the grade 9 data did not present as a significant outlier to the analysis in this regard. 
-Moreover, relative to other schools Thomas High School still performs as the second highest ranking school regardless of the grade 9 reading and math grades being removed. 
+By analysing the data provided above it can be determined that the removal of the grade nine grades did significantly alter the data. The average math and reading scores increased after the grades were removed and the same followed for the percentage of students passing these subjects and overall. Therefore, it could be concluded that the grade 9 data did present as a significant outlier to the analysis in this regard. 
+
 
 ## Analysis
-Math and reading scores by grade: Previous to removing the math and reading scores of the grade 9 class the result for both were close to the mean average and presented no significant outlier that would greatly affect the overall average and standing of the school -the grades 10-12 performed at a similar level. 
+Math and reading scores by grade: The grades 10-12 average math score did increase approximately 4%, the average reading grade increase approximately 2%, the % passing math increased approximately 19%, and the passing reading score increased 12%. Therefore, the overall passing also increased 25.7%
+
 Scores by school spending: Excluding the ninth grade reading and math scores Thomas High School still performs as the highest school for percentage overall passing within its spending per student range. 
+
 Scores by school size: This high schools is classified as a medium sized school which encapsulates between 1000-2000 students, relative to similarly populated schools Thomas High School performs at a similar rate yet receives the smallest amount of funding amongst other schools classified as medium sized. 
+
 Scores by school type: Thomas High School is a Charter school, relative to other charter schools this high school performs significantly better than district schools, the data without the grade nine scores has not significantly affected this. 
 
 ## Summary
-
+Therefore, it can be determined by the significant increase in all respects of the student's performances without the grade 9 grades that the grades received by this class did present as an outlier in performance, which could lead to the belief that there was some form of academic dishonesty practiced. Firstly, the most significant indicator of this is the 25.7% increase in the percentage overall passing. Secondly, the average reading and math scores only increased a small increment within 5% of the percent passing with the grade nine grades included however, this is followed by another significant increase in the percentage of students passing which appears unsettling. Lastly, if the average math and reading scores remained it appears odd that the following percentage of students changed so drastically, meaning that a large number of grade nine students were not successful in passing these subjects.
